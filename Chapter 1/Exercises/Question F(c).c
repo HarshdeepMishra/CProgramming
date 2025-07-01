@@ -14,7 +14,7 @@ int main() {
         printf("A%d: %.2f mm x %.2f mm\n", i, width, height);
         // Update dimensions for the next size
         float temp = width;
-        width = height / 2;
+        width = height;
         height = temp / 2;
     }
 }
