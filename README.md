@@ -9,7 +9,7 @@ This repository includes:
 - ✅ Solutions to **chapter-wise exercises** from the book
 - 💻 Sample C programs I wrote while learning each topic
 - ✍️ Well-commented code for better understanding
-- 🧠 Notes and observations from each chapter (optional if you plan to include these later)
+- 🧠 Notes and observations from each chapter 
 
 ## 📚 Why "Let Us C"?
 
@@ -25,6 +25,6 @@ You can use this repository to:
 - Revise key concepts and syntax
 
 Each folder is named after a chapter from the book, and contains:
-- A brief overview (optional)
+- A brief overview 
 - C source files (`.c`) for examples and exercises
 
