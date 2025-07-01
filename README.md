@@ -1,4 +1,4 @@
-# 📘 Let Us C - Chapter-wise Solutions & Practice
+# 📘 C Programming
 
 Welcome to my C Programming repository based on the classic book **"Let Us C" by Yashavant Kanetkar**. This repository is a personal learning journey where I solve all chapter-wise exercises and share the C code I’ve written while studying the concepts from the book.
 
