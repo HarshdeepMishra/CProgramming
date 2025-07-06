@@ -3,4 +3,8 @@ If a five digt number is input through the keyboard, write a program to calculat
 */
 #include <stdio.h>
 int main(){
+    int number, sum = 0, digit;
+    printf("Enter a five-digit number: ");
+    scanf("%d", &number);
+    
 }
