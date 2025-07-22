@@ -7,5 +7,10 @@ r = sqrt(x^2 + y^2)
 #include <stdio.h>
 
 int main(){
+    double x, y, r, theta;
 
+    printf("Enter the cartesion coordinates (x, y): ");
+    scanf("%lf %lf", &x, &y);
+    r = sqrt(x * x + y * y);
+    
 }
